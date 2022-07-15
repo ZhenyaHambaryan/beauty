@@ -1,0 +1,163 @@
+{
+  "loading":"LOADING....",
+  "headingTitle": "We are Flexible in Creation of Our Clients' Creative Projects",
+  "Subheading": "A Digital Platform of Concentration of Our Work in Creating Websites, Web Designs, Mobile Applications and Games",
+  "areTrusted": {
+    "title": "We Are Trusted <br class='media-br-none'/> Because",
+    "info": [
+      "Employees constantly strive to develop and learn,<br class='media-br-none'/> as well as share knowledge with colleagues",
+      "There is a healthy atmosphere in the staff, the staff <br class='media-br-none'/> is united and caring for each other",
+      "Our partners trust us knowing the quality of our <br class='media-br-none'/> work  by their own experience",
+      "We create creative works: lorem ispum dolor <br class='media-br-none'/> lorem  ispum lorem dolor",
+      "We are flexible enough to bring to life all of our <br class='media-br-none'/> customers' wishes like Santa"
+    ]
+  },
+  "typesSolutions": {
+    "title": "Types Of Web Solutions",
+    "info": [
+      {
+        "infoTitle": "Website Development",
+        "infoDescriptions": "Any web program, order or personal project we do in a shorter time frame using modern programming languages, attractive designs and useful features ensuring high quality, be sure we will do our best to satisfy you."
+      },
+      {
+        "infoTitle": "Mobile Applications",
+        "infoDescriptions": "The mobile applications we make are easy to use and available for downloading, understandable to users of any age thanks to the cross platform feature and the smart solutions of our specialists. We do our best for satisfaction of our customers and make them trust exactly us the fulfillment of their next order․"
+      },
+      {
+        "infoTitle": "Game Development",
+        "infoDescriptions": "The games we create, thanks to our creative & knowledgeable professionals who perform various complexity tasks, are attractive both by character, chromatic and acoustic side, & interesting to use, smart, useful and are pleasant for entertainment organization , easy to manage, and fun that will satisfy even the most capricious client."
+      },
+      {
+        "infoTitle": "Responsive Web Design",
+        "infoDescriptions": "We are highly professional skilled in web designing and use our great experience in years to make the kind of effective designs that your product will not go unnoticed, what makes you get a lot of new happy customers."
+      }
+    ]
+  },
+  "OurProjects":{
+    "title":"Our Projects",
+    "descriptions":"Our experience in creating unique and various types of highly developed projects, <br class='media-br-none-1280'/> where you can see some of their best",
+    "buttonText":"View More"
+  },
+  "MeetOurTeam":{
+    "title":"Meet Our Team",
+    "descriptions":"Every hand is a different set of skills"
+  },
+  "GetInTouch":"GET IN TOUCH",
+  "phone":"+374 93 51 85 95",
+  "email":"info@annaniks.am",
+  "comeMeetUs":"COME MEET US",
+  "city":"GYUMRI",
+  "addres":"Tsnndatan 43, 3101, Gyumri-Armenia",
+  "question":"Still Have a Question?",
+  "help":"We’re here to help. 24 hours a day, 7 days a week.",
+  "contactUs":"CONTACT US",
+  "copyright":"Copyright © 2019 Annaniks. All rights reserved.",
+
+
+
+
+
+  "ourProjects":"Our Projects",
+  "careers":"Careers",
+  "ourProjectpage":{
+    "title":"Lorem ipsum dolor sit amet, <br> consectetur adipiscing elit",
+    "subTitle":"Our Experience in Creating Unique and Various Types of Highly Developed Projects, <br/> Where You Can See Some of Their Best",
+    "loadMore":"LOAD MORE",
+    "allProject":"All project"
+},
+"careersPage":{
+  "title":"Become a Part of Our Journey!",
+  "subTitle":"Lorem Ipsum Dolor Sit Amet, Consectetur Adipiscing",
+  "joinUsButton":"JOIN US",
+  "ourValues":"Our Values",
+  "ourValuesSubtitle":"Lorem ipsum dolor sit amet, consectetur adipiscing eli",
+  "lifeAtAnnaniksTitle":"Life at Annaniks",
+  "lifeAtAnnaniksSubtitle":"Lorem ipsum dolor sit amet, consectetur adipiscing eli",
+  "findeYourPosition":"Find Your Position",
+  "findeYourPositionSubtitle":"Lorem ipsum dolor sit amet, consectetur adipiscing eli",
+  "loadMore":"LOAD MORE",
+  "maybeWeWill":"Didn’t Find a Position That Suits You? <br/> Maybe We Will!",
+  "maybeWeWillSubtitle":"We can always make room for talented people. <br /> Submit your resume and we’ll be in touch if anything comes up.",
+  "send":"SEND"
+},
+"careersPageDinamyc":{
+  "buttonTextTop":"View All Positions",
+  "formInfo":{
+    "aboutPosition":"About the position",
+    "firstName":"FIRST NAME ",
+    "lastName":"LAST NAME",
+    "emailAddres":"EMAIL ADDRESS",
+    "phoneNumber":"PHONE NUMBER",
+    "attachResume":"Attach resume",
+    "attachPortfolio":"Attach portfolio",
+    "linkedinePortfolioUrl":"LINKEDIN PROFILE URL",
+    "personalWebsite":"PERSONAL WEBSITE",
+    "personalNote":"PERSONAL NOTE",
+    "submitAplication":"SUBMIT APPLICATION"
+  },
+  "formError":{
+    "firstName":"Incorrectly indicated",
+    "lastName":"Incorrectly indicated",
+    "emailAddres":"Incorrectly indicated",
+    "phoneNumber":"Incorrectly indicated",
+    "attachResume":"Incorrectly indicated",
+    "attachPortfolio":"Incorrectly indicated",
+    "linkedinePortfolioUrl":"Incorrectly indicated",
+    "personalWebsite":"Incorrectly indicated",
+    "personalNote":"Incorrectly indicated"
+  }
+},
+"contactUsModalInfo": {
+  "title": "Contact Us",
+  "firstName": "FIRST NAME",
+  "lastName": "LAST NAME",
+  "emailAddres": "EMAIL ADDRESS",
+  "phoneNumber": "PHONE NUMBER",
+  "message": "MESSAGE",
+  "buttonText": "SEND",
+  "error": {
+    "firstName": "Incorrectly indicated",
+    "lastName": "Incorrectly indicated",
+    "emailAddres": "Incorrectly indicated",
+    "phoneNumber": "Incorrectly indicated",
+    "message": "Incorrectly indicated"
+  }
+},
+
+
+"statusMessage":"Status success .",
+"optionsCustomArr": [
+  { "title": "Website Development" },
+  { "title": "Mobile Application" },
+  { "title": "Game Development" },
+  { "title": "Responsive Web Design" }
+],
+"card": [
+  {
+    "title": "Ambition",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Ambition",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Ambition",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "title": "Ambition",
+    "description":
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  }
+]
+
+}
+
+
+
+
+
